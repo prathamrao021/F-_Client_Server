@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eVByumaEKXCBP3ARdOafAVgMnBl/mq3/R7mRXLJyGqUi7R1tv/5Wf9nRATjzEfNNK12QD32EzH1mmvOSfAW+ug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bansari\\Desktop\\All Assignments\\DOSPproject\\FSharp-TCP-Client-Server-master\\server\\server.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bansari\\.nuget\\packages\\fsharp.core\\7.0.400\\fsharp.core.7.0.400.nupkg.sha512"
+  ],
+  "logs": []
+}
