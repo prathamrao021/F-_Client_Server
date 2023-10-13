@@ -43,16 +43,3 @@ To use this code for your own educational purposes or to complete the assignment
    ```
    You can run multiple client instances simultaneously to establish connections to the server.
 
-## To-Do
-
-List tasks that need to be completed or features that need to be added. You can use checkboxes to mark the completion status of each task.
-
-- [X] server exception handling for more than 4 inputs
-- [x] client handling initial Hello from server
-- [X] terminate command exception handling, server side
-- [ ] code cleanups
-- [x] terminate command server side why exception?
-- [x] Server keeping count of connected clients
-- [ ] Updating the comments
-- [ ] Update the documentation and report with usage examples
-- [x] check for error commands
